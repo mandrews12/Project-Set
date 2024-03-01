@@ -1,8 +1,10 @@
-SET Game - Computerized Version
-Overview
-This program implements a computerized version of the popular card game SET. In the game, 12 random cards are generated and displayed to the user. The user is then prompted to choose 3 cards they believe form a valid SET. The program will verify whether the selected cards indeed constitute a SET.
+# SET Game - Computerized Version
+##Overview
+This program implements a computerized version of the popular card game SET. In the game, 12 random cards 
+are generated and displayed to the user. The user is then prompted to choose 3 cards they believe form a valid SET. 
+The program will verify whether the selected cards indeed constitute a SET.
 
-Features
+##Features
 Generates 12 random cards from the SET deck.
 Displays the cards to the user.
 Allows the user to select 3 cards.
